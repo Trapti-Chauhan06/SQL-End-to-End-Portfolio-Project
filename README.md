@@ -34,4 +34,4 @@ Online Book Store Dataset
 SQL, Data Analysis, Business Insights
 
 ## Screenshots 
-[Open Screesnhots Folder[(./Screenshots/)
+[Open Screesnhots Folder](./Screenshots/)
